@@ -1,0 +1,3 @@
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/cmake-build-debug/CMakeFiles/ProyectoIndividual.dir
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/cmake-build-debug/CMakeFiles/rebuild_cache.dir
