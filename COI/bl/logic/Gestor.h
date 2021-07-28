@@ -1,0 +1,8 @@
+//
+// Created by lopez on 27/7/2021.
+//
+
+#ifndef PROYECTOINDIVIDUAL_GESTOR_H
+#define PROYECTOINDIVIDUAL_GESTOR_H
+
+#endif //PROYECTOINDIVIDUAL_GESTOR_H

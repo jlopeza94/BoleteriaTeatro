@@ -82,6 +82,48 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/AaD/dl.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/AaD/dl.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/Asiento.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/Asiento.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/cola/Cola.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/cola/Cola.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/listaSimple/Lista.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/listaSimple/Lista.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/nodo/Nodo.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/nodo/Nodo.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/pila/Pila.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/pila/Pila.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/logic/Gestor.cpp">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/logic/Gestor.h">
+			<Option target="ProyectoIndividual"/>
+		</Unit>
 		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.cpp">
 			<Option target="ProyectoIndividual"/>
 		</Unit>

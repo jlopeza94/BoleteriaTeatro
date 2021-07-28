@@ -79,17 +79,164 @@ CMakeFiles\ProyectoIndividual.dir\library.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\library.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\library.cpp"
 <<
 
+CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj: ..\AaD\dl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProyectoIndividual.dir/AaD/dl.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\AaD\dl.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/AaD/dl.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\AaD\dl.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/AaD/dl.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\AaD\dl.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj: ..\COI\bl\entities\asiento\Asiento.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/asiento/Asiento.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\asiento\Asiento.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/asiento/Asiento.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\asiento\Asiento.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/asiento/Asiento.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\asiento\Asiento.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj: ..\COI\bl\entities\cola\Cola.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/cola/Cola.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\cola\Cola.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/cola/Cola.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\cola\Cola.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/cola/Cola.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\cola\Cola.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj: ..\COI\bl\entities\listaSimple\Lista.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/listaSimple/Lista.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\listaSimple\Lista.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/listaSimple/Lista.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\listaSimple\Lista.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/listaSimple/Lista.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\listaSimple\Lista.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj: ..\COI\bl\entities\nodo\Nodo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/nodo/Nodo.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\nodo\Nodo.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/nodo/Nodo.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\nodo\Nodo.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/nodo/Nodo.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\nodo\Nodo.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj: ..\COI\bl\entities\pila\Pila.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/pila/Pila.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\pila\Pila.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/pila/Pila.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\pila\Pila.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/pila/Pila.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\entities\pila\Pila.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj: CMakeFiles\ProyectoIndividual.dir\flags.make
+CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj: ..\COI\bl\logic\Gestor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ProyectoIndividual.dir/COI/bl/logic/Gestor.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj /FdCMakeFiles\ProyectoIndividual.dir\ProyectoIndividual.pdb /FS -c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\logic\Gestor.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProyectoIndividual.dir/COI/bl/logic/Gestor.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\logic\Gestor.cpp"
+<<
+
+CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProyectoIndividual.dir/COI/bl/logic/Gestor.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.s /c "D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\COI\bl\logic\Gestor.cpp"
+<<
+
 # Object files for target ProyectoIndividual
 ProyectoIndividual_OBJECTS = \
-"CMakeFiles\ProyectoIndividual.dir\library.cpp.obj"
+"CMakeFiles\ProyectoIndividual.dir\library.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj" \
+"CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj"
 
 # External object files for target ProyectoIndividual
 ProyectoIndividual_EXTERNAL_OBJECTS =
 
 ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\library.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj
+ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj
 ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\build.make
 ProyectoIndividual.lib: CMakeFiles\ProyectoIndividual.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ProyectoIndividual.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\lopez\Documents\Practicas codigo\Estructura de datos\ProyectoIndividual\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX static library ProyectoIndividual.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\ProyectoIndividual.dir\cmake_clean_target.cmake
 	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\lib.exe /nologo /machine:X86 /out:ProyectoIndividual.lib @CMakeFiles\ProyectoIndividual.dir\objects1.rsp 
 

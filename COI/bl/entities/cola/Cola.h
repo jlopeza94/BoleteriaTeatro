@@ -1,0 +1,8 @@
+//
+// Created by lopez on 27/7/2021.
+//
+
+#ifndef PROYECTOINDIVIDUAL_COLA_H
+#define PROYECTOINDIVIDUAL_COLA_H
+
+#endif //PROYECTOINDIVIDUAL_COLA_H

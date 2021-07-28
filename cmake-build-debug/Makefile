@@ -126,6 +126,195 @@ ProyectoIndividual\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\build
 .PHONY : ProyectoIndividual\fast
 
+AaD\dl.obj: AaD\dl.cpp.obj
+
+.PHONY : AaD\dl.obj
+
+# target to build an object file
+AaD\dl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.obj
+.PHONY : AaD\dl.cpp.obj
+
+AaD\dl.i: AaD\dl.cpp.i
+
+.PHONY : AaD\dl.i
+
+# target to preprocess a source file
+AaD\dl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.i
+.PHONY : AaD\dl.cpp.i
+
+AaD\dl.s: AaD\dl.cpp.s
+
+.PHONY : AaD\dl.s
+
+# target to generate assembly for a file
+AaD\dl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\AaD\dl.cpp.s
+.PHONY : AaD\dl.cpp.s
+
+COI\bl\entities\asiento\Asiento.obj: COI\bl\entities\asiento\Asiento.cpp.obj
+
+.PHONY : COI\bl\entities\asiento\Asiento.obj
+
+# target to build an object file
+COI\bl\entities\asiento\Asiento.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.obj
+.PHONY : COI\bl\entities\asiento\Asiento.cpp.obj
+
+COI\bl\entities\asiento\Asiento.i: COI\bl\entities\asiento\Asiento.cpp.i
+
+.PHONY : COI\bl\entities\asiento\Asiento.i
+
+# target to preprocess a source file
+COI\bl\entities\asiento\Asiento.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.i
+.PHONY : COI\bl\entities\asiento\Asiento.cpp.i
+
+COI\bl\entities\asiento\Asiento.s: COI\bl\entities\asiento\Asiento.cpp.s
+
+.PHONY : COI\bl\entities\asiento\Asiento.s
+
+# target to generate assembly for a file
+COI\bl\entities\asiento\Asiento.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\asiento\Asiento.cpp.s
+.PHONY : COI\bl\entities\asiento\Asiento.cpp.s
+
+COI\bl\entities\cola\Cola.obj: COI\bl\entities\cola\Cola.cpp.obj
+
+.PHONY : COI\bl\entities\cola\Cola.obj
+
+# target to build an object file
+COI\bl\entities\cola\Cola.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.obj
+.PHONY : COI\bl\entities\cola\Cola.cpp.obj
+
+COI\bl\entities\cola\Cola.i: COI\bl\entities\cola\Cola.cpp.i
+
+.PHONY : COI\bl\entities\cola\Cola.i
+
+# target to preprocess a source file
+COI\bl\entities\cola\Cola.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.i
+.PHONY : COI\bl\entities\cola\Cola.cpp.i
+
+COI\bl\entities\cola\Cola.s: COI\bl\entities\cola\Cola.cpp.s
+
+.PHONY : COI\bl\entities\cola\Cola.s
+
+# target to generate assembly for a file
+COI\bl\entities\cola\Cola.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\cola\Cola.cpp.s
+.PHONY : COI\bl\entities\cola\Cola.cpp.s
+
+COI\bl\entities\listaSimple\Lista.obj: COI\bl\entities\listaSimple\Lista.cpp.obj
+
+.PHONY : COI\bl\entities\listaSimple\Lista.obj
+
+# target to build an object file
+COI\bl\entities\listaSimple\Lista.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.obj
+.PHONY : COI\bl\entities\listaSimple\Lista.cpp.obj
+
+COI\bl\entities\listaSimple\Lista.i: COI\bl\entities\listaSimple\Lista.cpp.i
+
+.PHONY : COI\bl\entities\listaSimple\Lista.i
+
+# target to preprocess a source file
+COI\bl\entities\listaSimple\Lista.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.i
+.PHONY : COI\bl\entities\listaSimple\Lista.cpp.i
+
+COI\bl\entities\listaSimple\Lista.s: COI\bl\entities\listaSimple\Lista.cpp.s
+
+.PHONY : COI\bl\entities\listaSimple\Lista.s
+
+# target to generate assembly for a file
+COI\bl\entities\listaSimple\Lista.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\listaSimple\Lista.cpp.s
+.PHONY : COI\bl\entities\listaSimple\Lista.cpp.s
+
+COI\bl\entities\nodo\Nodo.obj: COI\bl\entities\nodo\Nodo.cpp.obj
+
+.PHONY : COI\bl\entities\nodo\Nodo.obj
+
+# target to build an object file
+COI\bl\entities\nodo\Nodo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.obj
+.PHONY : COI\bl\entities\nodo\Nodo.cpp.obj
+
+COI\bl\entities\nodo\Nodo.i: COI\bl\entities\nodo\Nodo.cpp.i
+
+.PHONY : COI\bl\entities\nodo\Nodo.i
+
+# target to preprocess a source file
+COI\bl\entities\nodo\Nodo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.i
+.PHONY : COI\bl\entities\nodo\Nodo.cpp.i
+
+COI\bl\entities\nodo\Nodo.s: COI\bl\entities\nodo\Nodo.cpp.s
+
+.PHONY : COI\bl\entities\nodo\Nodo.s
+
+# target to generate assembly for a file
+COI\bl\entities\nodo\Nodo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\nodo\Nodo.cpp.s
+.PHONY : COI\bl\entities\nodo\Nodo.cpp.s
+
+COI\bl\entities\pila\Pila.obj: COI\bl\entities\pila\Pila.cpp.obj
+
+.PHONY : COI\bl\entities\pila\Pila.obj
+
+# target to build an object file
+COI\bl\entities\pila\Pila.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.obj
+.PHONY : COI\bl\entities\pila\Pila.cpp.obj
+
+COI\bl\entities\pila\Pila.i: COI\bl\entities\pila\Pila.cpp.i
+
+.PHONY : COI\bl\entities\pila\Pila.i
+
+# target to preprocess a source file
+COI\bl\entities\pila\Pila.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.i
+.PHONY : COI\bl\entities\pila\Pila.cpp.i
+
+COI\bl\entities\pila\Pila.s: COI\bl\entities\pila\Pila.cpp.s
+
+.PHONY : COI\bl\entities\pila\Pila.s
+
+# target to generate assembly for a file
+COI\bl\entities\pila\Pila.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\entities\pila\Pila.cpp.s
+.PHONY : COI\bl\entities\pila\Pila.cpp.s
+
+COI\bl\logic\Gestor.obj: COI\bl\logic\Gestor.cpp.obj
+
+.PHONY : COI\bl\logic\Gestor.obj
+
+# target to build an object file
+COI\bl\logic\Gestor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.obj
+.PHONY : COI\bl\logic\Gestor.cpp.obj
+
+COI\bl\logic\Gestor.i: COI\bl\logic\Gestor.cpp.i
+
+.PHONY : COI\bl\logic\Gestor.i
+
+# target to preprocess a source file
+COI\bl\logic\Gestor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.i
+.PHONY : COI\bl\logic\Gestor.cpp.i
+
+COI\bl\logic\Gestor.s: COI\bl\logic\Gestor.cpp.s
+
+.PHONY : COI\bl\logic\Gestor.s
+
+# target to generate assembly for a file
+COI\bl\logic\Gestor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.s
+.PHONY : COI\bl\logic\Gestor.cpp.s
+
 library.obj: library.cpp.obj
 
 .PHONY : library.obj
@@ -162,6 +351,27 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ProyectoIndividual
+	@echo ... AaD/dl.obj
+	@echo ... AaD/dl.i
+	@echo ... AaD/dl.s
+	@echo ... COI/bl/entities/asiento/Asiento.obj
+	@echo ... COI/bl/entities/asiento/Asiento.i
+	@echo ... COI/bl/entities/asiento/Asiento.s
+	@echo ... COI/bl/entities/cola/Cola.obj
+	@echo ... COI/bl/entities/cola/Cola.i
+	@echo ... COI/bl/entities/cola/Cola.s
+	@echo ... COI/bl/entities/listaSimple/Lista.obj
+	@echo ... COI/bl/entities/listaSimple/Lista.i
+	@echo ... COI/bl/entities/listaSimple/Lista.s
+	@echo ... COI/bl/entities/nodo/Nodo.obj
+	@echo ... COI/bl/entities/nodo/Nodo.i
+	@echo ... COI/bl/entities/nodo/Nodo.s
+	@echo ... COI/bl/entities/pila/Pila.obj
+	@echo ... COI/bl/entities/pila/Pila.i
+	@echo ... COI/bl/entities/pila/Pila.s
+	@echo ... COI/bl/logic/Gestor.obj
+	@echo ... COI/bl/logic/Gestor.i
+	@echo ... COI/bl/logic/Gestor.s
 	@echo ... library.obj
 	@echo ... library.i
 	@echo ... library.s
