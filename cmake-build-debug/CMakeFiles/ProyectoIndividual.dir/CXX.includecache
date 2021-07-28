@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/AaD/dl.cpp
+dl.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/AaD/dl.h
+../COI/bl/entities/listaSimple/Lista.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/listaSimple/Lista.h
+../COI/bl/entities/pila/Pila.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/pila/Pila.h
+../COI/bl/entities/cola/Cola.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/cola/Cola.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/AaD/dl.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/Asiento.cpp
+Asiento.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/Asiento.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/Asiento.h
+iostream
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/asiento/iostream
+string
+-
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/cola/Cola.cpp
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/cola/Cola.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/listaSimple/Lista.cpp
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/listaSimple/Lista.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/nodo/Nodo.cpp
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/pila/Pila.cpp
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/entities/pila/Pila.h
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/logic/Gestor.cpp
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.cpp
+library.h
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.h
+iostream
+-
+
+D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.h
+
