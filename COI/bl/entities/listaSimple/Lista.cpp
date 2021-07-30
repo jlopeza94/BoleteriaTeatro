@@ -5,7 +5,11 @@
 #include "../nodo/Nodo.h"
 #include "Lista.h"
 
-Lista::Lista() {}
+Lista::Lista(int limite) {
+    this->tamano = 0;
+    this->cabeza = nullptr;
+    this->limite = limite;
+}
 
 Lista::Lista(Nodo *cabeza, int tamano) : cabeza(cabeza), tamano(tamano) {}
 

@@ -8,7 +8,7 @@
 Pila::Pila() {
     this->tamano = 0;
     this->tope = nullptr;
-    this->limite = 0;
+    this->limite = 5;
 }
 
 Pila::Pila(Nodo *tope, int tamano, int limite) : tope(tope), tamano(tamano), limite(limite) {}
@@ -72,4 +72,14 @@ bool Pila::pop() {
     }else{
         return false;
     }
+}
+
+string Pila::mostrarValores() {
+    Nodo* aux = tope;
+    string datos = "";
+    while (aux != nullptr){
+        datos += aux->getInformacion().mostrarValores()+"\n";
+        aux = aux->getSiguiente();
+    }
+    return datos;
 }

@@ -12,13 +12,6 @@ Asiento::~Asiento() {
     this->id = 0;
 }
 
-const string &Asiento::getTipo() const {
-    return tipo;
-}
-
-void Asiento::setTipo(const string &tipo) {
-    Asiento::tipo = tipo;
-}
 
 bool Asiento::isEstado() const {
     return estado;
@@ -58,4 +51,12 @@ int Asiento::getId() const {
 
 void Asiento::setId(int id) {
     Asiento::id = id;
+}
+
+const string &Asiento::getTipo() const {
+    return tipo;
+}
+
+void Asiento::setTipo(const string &tipo) {
+    Asiento::tipo = tipo;
 }

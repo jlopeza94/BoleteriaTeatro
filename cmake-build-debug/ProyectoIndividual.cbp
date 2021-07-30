@@ -124,10 +124,10 @@
 		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/bl/logic/Gestor.h">
 			<Option target="ProyectoIndividual"/>
 		</Unit>
-		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.cpp">
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/dao/Dao.cpp">
 			<Option target="ProyectoIndividual"/>
 		</Unit>
-		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/library.h">
+		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/COI/dao/Dao.h">
 			<Option target="ProyectoIndividual"/>
 		</Unit>
 		<Unit filename="D:/lopez/Documents/Practicas codigo/Estructura de datos/ProyectoIndividual/CMakeLists.txt">

@@ -38,6 +38,8 @@ public:
 
     bool atender();
 
+    string mostrarValores();
+
 };
 
 #endif //COLA_H

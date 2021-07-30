@@ -6,7 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/nodo/Nodo.cpp.obj"
   "CMakeFiles/ProyectoIndividual.dir/COI/bl/entities/pila/Pila.cpp.obj"
   "CMakeFiles/ProyectoIndividual.dir/COI/bl/logic/Gestor.cpp.obj"
-  "CMakeFiles/ProyectoIndividual.dir/library.cpp.obj"
+  "CMakeFiles/ProyectoIndividual.dir/COI/dao/Dao.cpp.obj"
   "ProyectoIndividual.lib"
   "ProyectoIndividual.pdb"
 )

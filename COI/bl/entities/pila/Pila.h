@@ -32,6 +32,8 @@ public:
     bool push(Asiento asiento);
 
     bool pop();
+
+    string mostrarValores();
 };
 
 

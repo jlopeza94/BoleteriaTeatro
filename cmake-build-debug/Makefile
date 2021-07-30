@@ -315,32 +315,32 @@ COI\bl\logic\Gestor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\bl\logic\Gestor.cpp.s
 .PHONY : COI\bl\logic\Gestor.cpp.s
 
-library.obj: library.cpp.obj
+COI\dao\Dao.obj: COI\dao\Dao.cpp.obj
 
-.PHONY : library.obj
+.PHONY : COI\dao\Dao.obj
 
 # target to build an object file
-library.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\library.cpp.obj
-.PHONY : library.cpp.obj
+COI\dao\Dao.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\dao\Dao.cpp.obj
+.PHONY : COI\dao\Dao.cpp.obj
 
-library.i: library.cpp.i
+COI\dao\Dao.i: COI\dao\Dao.cpp.i
 
-.PHONY : library.i
+.PHONY : COI\dao\Dao.i
 
 # target to preprocess a source file
-library.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\library.cpp.i
-.PHONY : library.cpp.i
+COI\dao\Dao.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\dao\Dao.cpp.i
+.PHONY : COI\dao\Dao.cpp.i
 
-library.s: library.cpp.s
+COI\dao\Dao.s: COI\dao\Dao.cpp.s
 
-.PHONY : library.s
+.PHONY : COI\dao\Dao.s
 
 # target to generate assembly for a file
-library.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\library.cpp.s
-.PHONY : library.cpp.s
+COI\dao\Dao.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProyectoIndividual.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ProyectoIndividual.dir\COI\dao\Dao.cpp.s
+.PHONY : COI\dao\Dao.cpp.s
 
 # Help Target
 help:
@@ -372,9 +372,9 @@ help:
 	@echo ... COI/bl/logic/Gestor.obj
 	@echo ... COI/bl/logic/Gestor.i
 	@echo ... COI/bl/logic/Gestor.s
-	@echo ... library.obj
-	@echo ... library.i
-	@echo ... library.s
+	@echo ... COI/dao/Dao.obj
+	@echo ... COI/dao/Dao.i
+	@echo ... COI/dao/Dao.s
 .PHONY : help
 
 

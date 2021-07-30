@@ -15,7 +15,7 @@ private:
     int limite;
 
 public:
-    Lista();
+    Lista(int limite);
 
     Lista(Nodo *cabeza, int tamano);
 
@@ -34,7 +34,9 @@ public:
     void setLimite(int limite);
 
     string mostrarValores();
+
     bool agregarFinal(Asiento asiento);
+
     bool agrgarPosicion(Asiento);
 
 };

@@ -9,7 +9,7 @@ Cola::Cola() {
     this->tamano = 0;
     this->final= nullptr;
     this->frente = nullptr;
-    this->limite = 0;
+    this->limite = 100;
 }
 
 Cola::Cola(Nodo *frente, Nodo *final, int size) : frente(frente), final(final), tamano(size) {}
@@ -55,13 +55,13 @@ bool Cola::agregar(Asiento asiento) {
     if (frente == nullptr && final == nullptr){
         setFrente(aux);
         setFinal(aux);
-        tamano= tamano + 1;;
-        ;
+        tamano= tamano + 1;
         return true;
     } else if(frente != nullptr && final != nullptr){
         aux->setSiguiente(final);
         setFinal(aux);
         tamano= tamano + 1;
+        return true;
     } else{
         return false;
     }
@@ -76,7 +76,7 @@ bool Cola::atender() {
         for (int i = 0; i < tamano; ++i) {
             if (i = (tamano - 2)) {
                 frente = aux;
-                tamano= tamano - 1;
+                tamano = tamano - 1;
                 i = tamano;
                 return true;
             } else {
@@ -84,4 +84,15 @@ bool Cola::atender() {
             }
         }
     }
+    return false;
+}
+
+string Cola::mostrarValores() {
+    Nodo* aux = frente;
+    string datos = "";
+    while (aux != nullptr){
+        datos += aux->getInformacion().mostrarValores()+"\n";
+        aux = aux->getSiguiente();
+    }
+    return datos;
 }

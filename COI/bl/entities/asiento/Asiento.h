@@ -19,11 +19,11 @@ public:
 
     Asiento(const string &tipo, bool estado, int precio, int id);
 
-    virtual ~Asiento();
-
     const string &getTipo() const;
 
     void setTipo(const string &tipo);
+
+    virtual ~Asiento();
 
     bool isEstado() const;
 

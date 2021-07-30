@@ -4,14 +4,8 @@
 
 #ifndef DL_H
 #define DL_H
+#include "../COI/bl/entities/listaSimple/Lista.h"
+#include "../COI/bl/entities/pila/Pila.h"
+#include "../COI/bl/entities/cola/Cola.h"
 
-
-class dl{
-    Lista *preferencialVIP;
-    Pila *preferencial;
-    Lista *general;
-    Cola *listaEspera;
-public:
-    dl();
-};
 #endif //DL_H
